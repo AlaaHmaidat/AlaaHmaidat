@@ -15,13 +15,6 @@ Passionate about crafting efficient and customer-focused web solutions. Skilled 
 <h3 align="left">Languages and Tools:</h3>
 
 [![langandskills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,bootstrap,tailwindcss,django,react,vscode)](https://skillicons.dev)
-
-<br/>
-
-
-
-<br/>
-
 <!-- # 🔭 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaaHmaidat&count_private=true&show_icons=true&theme=dark)
 
