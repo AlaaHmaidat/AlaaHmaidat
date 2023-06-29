@@ -1,9 +1,7 @@
 <h1 > Hi there, I'm Alaa Hmaidat! 👋 </h1>
 <p>
 
-Full Stack Developer
-
-Passionate about crafting efficient and customer-focused web solutions. Skilled in JavaScript, Python, Java, and more. Fluent in Arabic and English, facilitating effective communication across diverse stakeholders. Committed to promoting diversity and inclusion in tech. Enthusiastic learner, always staying up-to-date with the latest trends. Let's build something amazing together! 💪✨
+Full Stack Developer, passionate about crafting efficient and customer-focused web solutions. Skilled in JavaScript, Python, Java, and more. Fluent in Arabic and English, facilitating effective communication across diverse stakeholders. Committed to promoting diversity and inclusion in tech. Enthusiastic learner, always staying up-to-date with the latest trends. Let's build something amazing together! 💪✨
 </p>
 <h3 >Connect with me:</h3>
 <p >
